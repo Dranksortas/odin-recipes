@@ -1,0 +1,1 @@
+I`m going to code my first website using only HTML as first project.
